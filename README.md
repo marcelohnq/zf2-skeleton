@@ -1,6 +1,6 @@
 # Zend Framework 2 Skeleton
 
-O Titan FrontEnd atualmente está utilizando a versão do [Zend Framework 2](https://framework.zend.com/) 2.4.9.
+O Titan FrontEnd atualmente está utilizando a versão do [Zend Framework 2](https://framework.zend.com/) - 2.4.9.
 
 Getting Started
 ---------------
@@ -14,7 +14,7 @@ $ sudo apt-get install composer
 Iniciar o projeto do Zend Framework 2:
 
 ```bash
-composer require zendframework/zendframework 2.4.9
+$ composer require zendframework/zendframework 2.4.9
 ```
 
 Pronto para utilizar a ferramenta Titan FrontEnd.
