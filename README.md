@@ -1,4 +1,4 @@
-# Zend Framework 2 Skeleton
+# Titan FrontEnd - Zend Framework 2 Skeleton
 
 O Titan FrontEnd atualmente está utilizando a versão do [Zend Framework 2](https://framework.zend.com/) - 2.4.9.
 
